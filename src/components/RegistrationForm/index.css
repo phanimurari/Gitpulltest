@@ -1,0 +1,41 @@
+/* Write your CSS code here */
+.Container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+h1{
+    color: #ea580c;
+}
+.sub-Container{
+box-shadow: 0px 4px 16px 0px #bfbfbf;
+display: flex;
+flex-direction: column;
+ justify-content: center;
+    align-items: center;
+    padding: 30px;
+    border-radius: 10px;
+
+}
+.inputElement{
+    width: 80%;
+    background-color:  #cbd2d9;
+    margin:20px;
+
+}
+.redColor{
+    border-color:red;
+     width: 80%;
+    background-color:  #cbd2d9;
+    margin:20px;
+}
+.button{
+    background-color: #ea580c;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding: 4px;
+    border-radius: 5px;
+    border-width: 0px;
+}

@@ -68,4 +68,8 @@ export default RegistrationForm
 
 //commet3
 //comment 4
+<<<<<<< HEAD
 //comment 6
+=======
+//comment 5
+>>>>>>> 81ee46cd2d215b48d3300f7adbe9d4b28b4e54df

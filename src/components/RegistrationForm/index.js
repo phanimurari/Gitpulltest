@@ -4,8 +4,7 @@ import './index.css'
 class RegistrationForm extends Component {
   state = {input1: '', input2: '', stateO: false, stateT: false}
 
-  onSubmitingForm = event => {
-    event.preventDefault()
+  onSubmitingForm = () => {
     const {input1, input2} = this.state
     if (input1 === '') {
       this.setState({stateO: true})

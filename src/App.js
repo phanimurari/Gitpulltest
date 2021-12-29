@@ -4,3 +4,5 @@ import './App.css'
 const App = () => <RegistrationForm />
 
 export default App
+
+//Test comment
